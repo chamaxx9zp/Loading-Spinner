@@ -1,0 +1,1 @@
+This is initial README file of Loading Spinner
