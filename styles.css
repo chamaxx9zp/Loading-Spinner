@@ -3,6 +3,10 @@
     height: 64px;
     background-color: blueviolet;
     animation: rotation 1.5s infinite;
+    border-radius: 50%;
+    border-color: red transparent red transparent;
+    border-width: 6px;
+    border-style: solid;
 }
 
 @keyframes rotation{
